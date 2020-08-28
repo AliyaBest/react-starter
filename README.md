@@ -1,25 +1,37 @@
-# react-starter
-Simple React App starter
+# Simple React App starter
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Dependencies](#dependencies)
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
-	
+Use this Simple React App starter as a starting point for small projects. It includes Webpack and Babel. I've found that using create-react-app to start my small projects often includes many items I don't need. And I wanted to save time on setting up my React app with all the dependencies and files. So, I created this starter.
+
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
+* JavaScript
+* HTML
+* React: 16.13.1
+
+## Dependencies
+* @babel/core: 7.11.4
+* @babel/preset-env: 7.11.0
+* @babel/preset-react: 7.10.4
+* babel-loader: 8.1.0
+* webpack: 4.44.1
+* webpack-cli: 3.3.12
+* webpack-dev-server: 3.11.0
+* react-dom: 16.13.1
+
 ## Setup
-To run this project, install it locally using npm:
+Fork and clone this repository to your computer. To run this project, install it locally using npm:
 
 ```
 $ cd ../lorem
 $ npm install
-$ npm start
+$ npm run dev
 ```
+## Contact
+[Aliya Best](https://www.linkedin.com/in/aliya-best/)
