@@ -33,13 +33,7 @@ Fork and clone this repository to your computer. To run this project,
 ```
 $ cd ../lorem
 ```
-Add a .babelrc file and add the following:
 
-```
-{
-  "presets": ["@babel/preset-env", "@babel/preset-react"]
-}
-```
 Install it locally using npm:
 ```
 $ npm install
